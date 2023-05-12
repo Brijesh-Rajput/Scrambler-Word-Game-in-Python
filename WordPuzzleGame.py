@@ -69,3 +69,5 @@ input("Press Enter Key to Kill the program") #Note:- Enter Key Not any Key
 #Note:- in every round there will be only 5 words
 #How to show random sequence of word
 """
+
+# Code to compile the python code:- i.e. Converting .py file to .pyc file  ===> python -m py_compile WordPuzzleGame.py
